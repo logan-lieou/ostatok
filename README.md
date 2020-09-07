@@ -1,4 +1,5 @@
-Run with `npm install` then `yarn start` or `npm install && yarn start`
+# остаток
+бежать с `npm install` затем `yarn start` или `npm install && yarn start`
 
 ## Available Scripts
 
